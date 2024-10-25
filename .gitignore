@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+dist
+dist.zip
+dist-ssr
+*.local
+*.zip
+auto-imports.d.ts
+components.d.ts
+.idea
+/test.*
+coverage
+.vite-inspect
+package-lock.json
+commits.txt
